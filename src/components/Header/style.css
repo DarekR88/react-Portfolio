@@ -1,0 +1,12 @@
+.githubRepo {
+    text-decoration: none;
+    color: white;
+    display: inline-block; 
+    margin-top: 35px;
+}
+
+.header {
+    background-color: gray;
+    height: 75px;
+    text-align: center;
+}

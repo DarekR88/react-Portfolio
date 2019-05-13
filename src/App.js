@@ -4,6 +4,7 @@ import Footer from "./components/Footer";
 import Header from "./components/Header";
 import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
+import Blurb from "./components/Blurb";
 
 
 class App extends Component {
@@ -11,8 +12,7 @@ class App extends Component {
     return (
       <div className="container">
         <Header />
-        <h1>Hi, My name is Darek Radke.</h1>
-        <p className="blurb">I am a full stack website developer.</p>
+        <Blurb />
         <Projects />
         <Technologies />
         <Footer />
