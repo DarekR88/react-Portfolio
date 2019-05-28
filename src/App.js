@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import Projects from "./components/Projects";
 import Technologies from "./components/Technologies";
 import Blurb from "./components/Blurb";
+import Contact from "./components/Contact"
 
 
 class App extends Component {
@@ -15,6 +16,7 @@ class App extends Component {
         <Blurb />
         <Projects />
         <Technologies />
+        <Contact />
         <Footer />
       </div>
     );
