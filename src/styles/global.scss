@@ -1,0 +1,30 @@
+$dark: #6675AA;
+$medium: #4258AB;
+$light: #A9AED3;
+$beige: #0A112D;
+$loud: #FE5F55;
+
+html {
+  font-size: 10px;
+  scroll-behavior: smooth;
+  font-family: 'Montserrat', sans-serif;;
+}
+
+p, li, a {
+  font-size: 16px;
+}
+
+.heading-m {
+  font-size: 32px;
+  line-height: 40px;
+}
+
+.heading-l {
+  font-size: 48px;
+  line-height: 48px;
+}
+
+.paragraph {
+  font-size: 16px;
+  line-height: 24px;
+}

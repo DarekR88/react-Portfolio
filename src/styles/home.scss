@@ -1,0 +1,33 @@
+.home {
+  background-image: url("../images/backgroundImage.jpg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.home-container {
+  margin: 0 auto;
+  max-width: 1200px;
+  height: 95vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .heading-l {
+    margin-bottom: 32px;
+    color: $loud;
+    padding-left: 20px;
+  }
+
+  .paragraph {
+    margin-bottom: 8px;
+    color: $loud;
+    padding-left: 20px;
+  }
+
+  .loud {
+    color: $loud;
+  }
+}
