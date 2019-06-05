@@ -37,7 +37,9 @@ class Contact extends Component {
                 I aim to create unique UI/UX experiences focused on utility and adaptivity.
               </p>
               <p className="paragraph">
-                E-mail: Dradmclad@gmail.com 
+                E-mail: Dradmclad@gmail.com
+              </p>
+              <p className="paragraph">
                 Phone: (408) 761-4606
               </p>
             </div>
